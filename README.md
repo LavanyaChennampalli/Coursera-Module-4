@@ -27,6 +27,4 @@ NOTE: the provided starter code will not run. It is up to you to follow the inst
 
 When you are continuously working on the assignment, use Browser Sync and keep Chrome open to the Console tab of the Chrome Developer Tools. You will likely see errors there to start with. Follow the steps outlined in the starter code and those errors should go away by the time you finish the last step. If you still see errors at that point or you are not seeing the output you're supposed to see, you probably made a mistake somewhere, so look into that and investigate. 
 
-Remember, if you are stuck, ask questions on the course Discussion forum.
 
-That's it!
